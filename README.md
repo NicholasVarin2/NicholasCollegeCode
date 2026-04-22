@@ -1,1 +1,1 @@
-My Code for my Java Midterm and Final
+Code for some of my projects at Edmonds College
