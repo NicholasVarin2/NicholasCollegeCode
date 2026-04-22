@@ -1,0 +1,8 @@
+Account ID: 5
+Customer Name: bob
+Balance:4333.0
+Interest Rate: 0.0%
+Monthly Interest: 0.00
+Date Created: Tue Apr 21 23:32:27 PDT 2026
+Type       Amount          Balance         Description         
+Type: D	Amount: $333.00	Balance: $4333.00	Description: ATM transaction
